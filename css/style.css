@@ -38,7 +38,7 @@ p{
     height: 220px;
     background-color: darkred ;
     color: white;
-    padding: 30px;
+    padding: 23px;
     border-radius: 12px;
     cursor: pointer;
 
@@ -65,7 +65,7 @@ span{
     height: 220px;
     background-color: midnightblue;
     color: white;
-    padding: 30px;
+    padding: 23px;
     border-radius: 12px;
     cursor: pointer;
 
@@ -75,7 +75,7 @@ span{
     height: 220px;
     background-color: rgb(143, 136, 57) ;
     color: white;
-    padding: 30px;
+    padding: 23px;
     border-radius: 12px;
     cursor: pointer;
 
@@ -85,7 +85,7 @@ span{
     height: 220px;
     background-color: black;
     color: white;
-    padding: 30px;
+    padding: 23px;
     border-radius: 12px;
     cursor: pointer;
 
